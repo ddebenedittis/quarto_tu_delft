@@ -7,11 +7,13 @@ format:
     tu_delft-revealjs:
         title-slide-attributes:
             data-background-color: "#00a6d6"
-            data-background-image: "/_extensions/tu_delft/img/ducks.png, /_extensions/tu_delft/img/p1.png"
+            data-background-image: "/_extensions/ddebenedittis/tu_delft/img/ducks.png, /_extensions/ddebenedittis/tu_delft/img/p1.png"
             data-background-position: "top 0% right 0%, top 0% right 0%"
             data-background-size: "auto 100%, 100% 100%"
 ---
 
-# Test 1
+# Test 1 {visibility="uncounted"}
 
 ## Test 2
+
+# Bedankt voor uw aandacht {background-color="#00a6d6" background-image="/_extensions/ddebenedittis/tu_delft/img/p3.png" data-background-size="100% 100%" visibility="uncounted"}
