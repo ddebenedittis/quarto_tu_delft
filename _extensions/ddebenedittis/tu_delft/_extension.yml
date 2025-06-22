@@ -4,6 +4,6 @@ version: 0.0.1
 contributes:
   formats:
     revealjs:
-      theme: [default, tu_delft.scss]
+      theme: [default, tu_delft_unipi.scss]
       slide-number: true
       date-format: long

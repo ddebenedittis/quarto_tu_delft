@@ -16,4 +16,4 @@ format:
 
 ## Test 2
 
-# Bedankt voor uw aandacht {background-color="#00a6d6" background-image="/_extensions/ddebenedittis/tu_delft/img/p3.png" data-background-size="100% 100%" visibility="uncounted"}
+# Bedankt voor uw aandacht (◕‿◕) {background-color="#00a6d6" background-image="/_extensions/ddebenedittis/tu_delft/img/tud_text_white.png, /_extensions/ddebenedittis/tu_delft/img/unipi_text_white.webp, /_extensions/ddebenedittis/tu_delft/img/p3.png" data-background-size="auto 35px, auto 35px, 100% 100%" data-background-position="99.5% 1%, 0.5% 1%, 50% 50%" visibility="uncounted"}
