@@ -1,19 +1,20 @@
 ---
 title: Revealjs Test
 author: Davide De Benedittis
+institute: TU Delft & Università di Pisa
 date: today
 toc: false
 format:
     tu_delft-revealjs:
         title-slide-attributes:
             data-background-color: "#00a6d6"
-            data-background-image: "/_extensions/ddebenedittis/tu_delft/img/ducks.png, /_extensions/ddebenedittis/tu_delft/img/p1.png"
-            data-background-position: "top 0% right 0%, top 0% right 0%"
-            data-background-size: "auto 100%, 100% 100%"
+            data-background-image: "img/theme/tud_text_white.png, img/theme/unipi_text_white.webp, img/theme/ducks.png, img/theme/p1.png"
+            data-background-position: "top 1% left 99.5%, top 1% right 99.5%, top 0% right 0%, top 0% right 0%"
+            data-background-size: "auto 35px, auto 35px, auto 100%, 100% 100%"
 ---
 
 # Test 1 {visibility="uncounted"}
 
 ## Test 2
 
-# Bedankt voor uw aandacht (◕‿◕) {background-color="#00a6d6" background-image="/_extensions/ddebenedittis/tu_delft/img/tud_text_white.png, /_extensions/ddebenedittis/tu_delft/img/unipi_text_white.webp, /_extensions/ddebenedittis/tu_delft/img/p3.png" data-background-size="auto 35px, auto 35px, 100% 100%" data-background-position="99.5% 1%, 0.5% 1%, 50% 50%" visibility="uncounted"}
+# Bedankt voor uw aandacht (◕‿◕) {background-color="#00a6d6" background-image="img/theme/tud_text_white.png, img/theme/unipi_text_white.webp, img/theme/p3.png" data-background-size="auto 35px, auto 35px, 100% 100%" data-background-position="99.5% 1%, 0.5% 1%, 50% 50%" visibility="uncounted"}

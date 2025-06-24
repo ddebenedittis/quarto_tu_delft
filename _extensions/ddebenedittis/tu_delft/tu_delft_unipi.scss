@@ -55,6 +55,11 @@ $presentation-font-size-root: 35px !default;
         }
     }
 }
+#title-slide.quarto-title-block.center > * {
+  width: 50%;
+  text-align: left;
+  margin-left: 0;
+}
 //  No slide number on title slide
 .reveal .slide-number > a[href*='title-slide'] {
   display: none;
